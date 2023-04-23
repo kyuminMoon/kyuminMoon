@@ -1,16 +1,19 @@
-### Hi there 👋
+### 반갑습니다! 👋
 
-<!--
-**kyuminMoon/kyuminMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyuminMoon&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+* 📝 아직 배울게 많은 백엔드 개발자입니다.
+* 😎 유저 관점에서 서비스에 부족한 점이 무엇인지 생각하고, 수정하려고 노력하고 있으며,
+* 🌱 부족한 점을 메우기 위해 항상 정진하며 노력하는 중입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/aws/aws.png"></code>
+docker
+git
+java
+jenkins
+kafka
+linux
+mysql
+nginx
+postgresql
+spring
