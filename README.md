@@ -1,6 +1,6 @@
 ### 반갑습니다! 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyuminMoon&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kyuminMoon&theme=dark)](https://git.io/streak-stats)
 
 * 📝 아직 배울게 많은 백엔드 개발자입니다.
 * 😎 유저 관점에서 서비스에 부족한 점이 무엇인지 생각하고, 수정하려고 노력하고 있으며,
